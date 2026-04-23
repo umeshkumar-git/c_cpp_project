@@ -9,10 +9,10 @@ It’s simple: This is where I practice C and C++ wizardry, leveling up one proj
 Expect:
 - Some C 🖥️  
 - Some C++ 🤖  
-- Lots of coding experiments 🧪  
+- Lots of coding experiments 🧪   
 - And maybe even a working program or two! 😅
 
-## 🤩 How can YOU get involved?
+## 🤩 How can YOU get involved? 
 
 1. **Feel free to use** any code here! Whether you want to copy-paste, study, or stare at it in horror, it’s all yours.
    
@@ -20,4 +20,4 @@ Expect:
 
 ---
 
-Thanks for stopping by! I hope you enjoy the chaos. 🛠️👾
+Thanks for stopping by! I hope you enjoy the chaos. 🛠️👾 
